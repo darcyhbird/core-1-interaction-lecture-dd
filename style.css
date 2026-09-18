@@ -3,9 +3,11 @@ body {
   min-height: 100vh;
 }
 h1 { 
-font-family: "Comic Sans MS"
+  font-family: "Comic Sans MS";
+  color:#420e54;
  }
 
 h2 {
   font-family: Helvetica;
+  color: #1b5722;
 }
