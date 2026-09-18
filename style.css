@@ -1,5 +1,11 @@
 body {
   background-color: mediumpurple;
-  font-family: Helvetica;
   min-height: 100vh;
+}
+h1 { 
+font-family: "Comic Sans MS"
+ }
+
+h2 {
+  font-family: Helvetica;
 }
